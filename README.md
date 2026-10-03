@@ -3,7 +3,7 @@ Set-Content -Path README.md -Value '# 🚀 AI-Powered Cold Email & ATS Matcher
 
 > An end-to-end, commercial-grade career assistant built with Python, Streamlit, and the Google Gemini API (`gemini-3.8-flash`). It parses candidate resumes against target job descriptions to compute ATS match scores, extract keyword gaps, and generate high-converting, AIDA-framework cold emails across multiple customizable tones.
 
-🌐 **Live Demo Application:** [https://cold_email-ats-optimzer.streamlit.app](https://cold_email-ats-optimzer.streamlit.app)
+🌐 **Live Demo Application:** [https://cold-email-ats-optimzer.streamlit.app](https://cold-email-ats-optimzer.streamlit.app)
 
 ---
 
